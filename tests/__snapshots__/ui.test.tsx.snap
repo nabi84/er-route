@@ -1,0 +1,172 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ER Route screens > renders direction card 1`] = `
+<button
+  aria-label="Open Save Spot"
+  class="direction-card"
+  type="button"
+>
+  <div
+    class="map-wrap"
+  >
+    <div
+      class="map-image"
+      data-loaded="false"
+    >
+      <div
+        aria-hidden="true"
+        class="asset-placeholder"
+      />
+      <img
+        alt="Navigation map"
+        class="fill-image"
+        loading="eager"
+        src="/assets/map.png"
+      />
+    </div>
+    <span
+      class="map-tag origin"
+    >
+      2100 Ocoee Apopka Rd, Apopka, FL 32712
+    </span>
+    <span
+      class="map-tag home"
+    >
+      Your home
+    </span>
+  </div>
+  <div
+    class="direction-body"
+  >
+    <div
+      class="direction-copy"
+    >
+      <p
+        class="text-body-large"
+      >
+        Start navigation to AdventHealth Apopka ER
+      </p>
+      <p
+        class="text-body"
+      >
+        Estimated arrival 6:02 PM
+      </p>
+      <span
+        class="tag"
+      >
+        8 min drive
+      </span>
+    </div>
+    <img
+      alt=""
+      class="chevron-icon"
+      src="/assets/icon-chevron.svg"
+    />
+  </div>
+</button>
+`;
+
+exports[`ER Route screens > renders preloading screen 1`] = `
+<img
+  alt="ER Route"
+  class="preload-logo"
+  draggable="false"
+  src="/assets/logo-stacked.svg"
+/>
+`;
+
+exports[`ER Route screens > renders results card 1`] = `
+<button
+  aria-label="Open directions"
+  class="results-card"
+  type="button"
+>
+  <div
+    class="results-left"
+  >
+    <h2
+      class="results-facility"
+    >
+      AdventHealth Apopka ER
+    </h2>
+    <div
+      class="results-rating-row"
+    >
+      <img
+        alt=""
+        class="star-icon"
+        src="/assets/icon-star.svg"
+      />
+      <span
+        class="text-small"
+      >
+        4.5
+      </span>
+      <span
+        class="text-small"
+      >
+        (
+        57
+        )
+      </span>
+    </div>
+    <p
+      class="text-small address"
+    >
+      2100 Ocoee Apopka Rd, Apopka, FL 32703
+    </p>
+    <div
+      class="results-tags"
+    >
+      <span
+        class="tag"
+      >
+        Pediatric
+      </span>
+      <span
+        class="tag"
+      >
+        8 min drive
+      </span>
+    </div>
+  </div>
+  <div
+    class="results-right"
+  >
+    <p
+      class="text-small text-white"
+    >
+      Time to treatment
+    </p>
+    <p
+      class="time-gradient is-animating"
+    >
+      0
+       min
+    </p>
+    <p
+      class="text-small text-white"
+    >
+      Estimated wait ~18 min
+    </p>
+  </div>
+</button>
+`;
+
+exports[`ER Route screens > renders save spot copy and gradient 1`] = `
+<div
+  class="save-spot-gradient"
+  data-loaded="false"
+>
+  <div
+    aria-hidden="true"
+    class="asset-placeholder"
+  />
+  <img
+    alt=""
+    class="fill-image"
+    loading="eager"
+    src="/assets/gradient-save-spot.svg"
+  />
+</div>
+`;

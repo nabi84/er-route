@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@8..144,400;8..144,500;8..144,600&display=swap");
+
+:root {
+  --color-black: #222222;
+  --color-body: #333333;
+  --color-white: #f2f2f2;
+  --color-cream: #f0ead8;
+  --color-cream-hover: #d6d0be;
+  --color-cream-active: #bdb7a6;
+  --color-primary: #898e46;
+  --color-primary-active: #9ea566;
+  --color-secondary: #96c5de;
+  --color-success: #25533f;
+  --color-warning: #9f5f3d;
+
+  --font-family: "Google Sans Flex", "Avenir Next", "SF Pro Text", -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --text-subtitle-size: 32px;
+  --text-subtitle-weight: 400;
+  --text-subtitle-line: 1.2;
+
+  --text-title-page-size: 40px;
+  --text-title-page-weight: 500;
+  --text-title-page-line: 1.1;
+
+  --text-heading-size: 26px;
+  --text-heading-weight: 600;
+
+  --text-body-large-size: 20px;
+  --text-body-large-weight: 500;
+
+  --text-body-size: 16px;
+  --text-body-weight: 400;
+
+  --text-small-size: 12px;
+  --text-small-weight: 500;
+
+  --radius-xl: 24px;
+  --radius-lg: 20px;
+  --radius-pill: 100px;
+}

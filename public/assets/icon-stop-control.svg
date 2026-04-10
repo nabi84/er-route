@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="xMidYMid meet" width="80" height="80" overflow="visible" style="display: block;" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="stop">
+<rect width="80" height="80" rx="40" fill="var(--fill-0, #222222)"/>
+<path id="stop_2" d="M28 52V28H52V52H28ZM31 49H49V31H31V49Z" fill="var(--fill-0, #F2F2F2)"/>
+</g>
+</svg>
